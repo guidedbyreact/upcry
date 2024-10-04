@@ -1,0 +1,4 @@
+as you can see , i ve already create a next application js in the "upcry/app/page.tsx" , i want you to create the following element for me.
+
+a beautiful menu, look good and professional with a darkmode, use tailwind 
+add a beautfull logo like you want , with the name upcry,the app is for crypto
